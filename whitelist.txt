@@ -47,6 +47,7 @@ mega.nz
 microsoft.com
 microsoftonline.com
 mp3jp-download.com
+myworkday.com
 notion.so
 office.com
 opengapps.org
@@ -116,4 +117,5 @@ www.szse.cn
 www.wired.com
 www.wpm.hk
 www.youtube.com
+xkcd.com
 zoom.us
