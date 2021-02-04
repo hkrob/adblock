@@ -20,6 +20,7 @@ accounts.spotify.com
 aia.com.hk
 alfred.camera
 aliyuncs.com
+apexcharts.com
 apkcombo.com
 apollohifi.com.au
 app.box.com
@@ -48,6 +49,7 @@ cloudfront.net
 clublike.com.hk
 cnn.com
 community.athom.com
+connect.hpe.com
 coreelec.org
 cowbirdcoffee.com
 crontab.guru
@@ -86,6 +88,7 @@ gov.au
 gov.hk
 greencoffeehk.com
 habackup.io
+hackaday.io
 hacs.xyz
 hdmusic.cc
 hk.iherb.com
@@ -108,6 +111,7 @@ html-online.com
 html5-editor.net
 idx.co.id
 ifttt.com
+ikea.com.hk
 imgur.com
 instagram.com
 interactivebrokers.com
@@ -200,6 +204,7 @@ taobao.com
 tb.cn
 telegram.org
 temp-mail.org
+thea2milkcompany.com
 theaustralianfoodshop.com
 theclub.com.hk
 theconversation.com
@@ -213,6 +218,7 @@ time.is
 timeout.com
 tmall.com
 towerswatson.com
+transportnsw.info
 trello.com
 twitter.com
 typeform.com
@@ -241,6 +247,7 @@ www.aniris.co.uk
 www.anpasia.com
 www.apas.com.au
 www.aph.gov.au
+www.aqara.com
 www.armbian.com
 www.asio4all.org
 www.asus.com
@@ -286,6 +293,7 @@ www.filmgarb.com
 www.freelogodesign.org
 www.ginfoundry.com
 www.gizmodo.com.au
+www.glassdoor.com.au
 www.gog.com
 www.goodhousekeeping.com
 www.google.com
@@ -313,6 +321,7 @@ www.lilygo.cn
 www.linkedin.com
 www.logitech.com
 www.londonstockexchange.com
+www.lovecoupons.hk
 www.loveramics.com
 www.lseg.com
 www.lsegissuerservices.com
@@ -373,6 +382,8 @@ www.utg.hk
 www.wecl.com.hk
 www.weclonline.com
 www.wellcome.com.hk
+www.wethrift.com
+www.whatimade.today
 www.winerack.com.hk
 www.wired.com
 www.woolworths.com.au
