@@ -1,0 +1,10 @@
+192.168.1.1 router router.yuenlong
+192.168.1.5 ha-prod ha-prod.yuenlong
+192.168.1.6 zbgatewayyl1 zbgatewayyl1.yuenlong
+192.168.1.10 garagecam garagecam.yuenlong
+192.168.1.20 lightlivingroomceiling lightlivingroomceiling.yuenlong
+192.168.1.21 lightstairslower lightstairslower.yuenlong
+192.168.1.22 lightstairsupper lightstairsupper.yuenlong
+192.168.1.23 lightrooftop-ceiling1 lightrooftop-ceiling1.yuenlong
+192.168.1.24 lightrooftop-ceiling2 lightrooftop-ceiling2.yuenlong
+192.168.1.25 lightrooftop-outside lightrooftop-outside.yuenlong
