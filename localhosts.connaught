@@ -3,11 +3,12 @@
 192.168.2.1 router router.connaught router.local
 192.168.2.35 bathroomfan.connaught bathroomfan
 192.168.2.36 kitchenworklight kitchenworklight.connaught
+192.168.2.37 stripbedroom stripbedroom.connaught
 192.168.2.48 test.connaught test
 192.168.2.48 unifi unifi.connaught unifi.local
 192.168.2.48 ha-prod ha-prod.connaught ha-prod.local
 192.168.2.54 pizerow pizerow.connaught pizerow.local
-192.168.2.66 stripbedroom stripbedroom.connaught
+192.168.2.37 stripbedroom stripbedroom.connaught
 192.168.2.91 rockrobo rockrobo.connaught
 192.168.2.93 ac-livingroom ac-livingroom.connaught
 192.168.2.94 ac-office ac-office.connaught
