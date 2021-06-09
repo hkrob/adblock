@@ -1,5 +1,5 @@
 192.168.1.1 router router.yuenlong
-192.168.1.5 ha-prod ha-prod.yuenlong
+192.168.1.5 ha-prod ha-prod.yuenlong hayuenlong.local
 192.168.1.6 zbgatewayyl1 zbgatewayyl1.yuenlong
 192.168.1.10 garagecam garagecam.yuenlong
 192.168.1.20 lightlivingroomceiling lightlivingroomceiling.yuenlong
