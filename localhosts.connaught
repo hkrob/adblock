@@ -1,6 +1,6 @@
 # Connaught Site
 # 
-192.168.2.1 router router.connaught router.local ha.robcloud.org
+192.168.2.1 router router.connaught router.local 
 192.168.2.2 wifi wifi.connaught wifi.local
 192.168.2.35 bathroomfan.connaught bathroomfan
 192.168.2.36 kitchenworklight kitchenworklight.connaught
@@ -8,7 +8,7 @@
 192.168.2.45 zbbridge1 zbbridge1.connaught
 192.168.2.48 test.connaught test
 192.168.2.55 unifi unifi.connaught unifi.local
-192.168.2.55 ha-prod ha-prod.connaught ha-prod.local
+192.168.2.55 ha-prod ha-prod.connaught ha-prod.local ha.robcloud.org
 192.168.2.54 pizerow pizerow.connaught pizerow.local
 192.168.2.37 stripbedroom stripbedroom.connaught
 192.168.2.91 rockrobo rockrobo.connaught
