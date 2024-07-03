@@ -46,6 +46,7 @@ chautari.com.hk
 chtbl.com
 citibank.com.hk
 clicktools.com
+cloudflare.com
 cloudfront.net
 clublike.com.hk
 cnn.com
@@ -146,6 +147,7 @@ mccainpromo.com.au
 mdi.bessarabov.com
 medium.com
 mega.nz
+mi.com
 metropole.com.au
 microsoft.com
 microsoftonline.com
