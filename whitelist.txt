@@ -108,6 +108,7 @@ hotcopper.com.au
 hotlink.cc
 hsbc.com.au
 hsbc.com.hk
+hsbc.com
 html-online.com
 html5-editor.net
 idx.co.id
@@ -139,6 +140,7 @@ login.live.com
 losslessalbums.club
 lrn.com
 lsegroup-onmicrosoft-com.managed.prod04.access-control.cas.ms
+lseg.com
 maketext.io
 mccainpromo.com.au
 mdi.bessarabov.com
@@ -156,7 +158,6 @@ newsinitiative.withgoogle.com
 nitroflare.com
 nodemcu-build.com
 notion.so
-nungar.com.au
 nvidia.com
 nzx.com
 offer.tidal.com
@@ -175,7 +176,6 @@ propertyme.com
 proxyrarbg.org
 qz.com
 realestate.com.au
-refinitiv-lcec.lrn.com
 refinitiv.com
 refinitiv.service-now.com
 reolink.com
