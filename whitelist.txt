@@ -166,6 +166,8 @@ offer.tidal.com
 office.com
 onlineyamltools.com
 opengapps.org
+optus.com.au
+optus.net.au
 pastebin.com
 paypal.com
 player.whooshkaa.com
